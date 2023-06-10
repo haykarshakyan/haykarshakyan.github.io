@@ -202,3 +202,9 @@ a {
     height: 300px;
     background: black;
 }
+
+@media (max-width: 500px) {
+    .nav {
+        font-size: 12px;
+    }
+}
